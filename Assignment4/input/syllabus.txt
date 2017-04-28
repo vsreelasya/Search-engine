@@ -1,0 +1,213 @@
+
+Information Retrieval and Web Search
+–
+Fall 
+2016
+COMP 7/81
+30
+Vasile Rus
+Contact Information:
+Office:  
+323
+Dunn Hall
+Department Office:
+375
+Dunn Hall
+Phone:  
+678
+-
+5259
+Department 
+Phone:   
+678
+-
+5465
+E
+-
+mail:  
+vrus@memphis.edu
+Office Hours
+(in 
+DH323
+)
+:
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+10:00AM
+-
+11:00AM
+10:00AM
+-
+11:00AM
+Also by Appointment
+Course Description:
+COMP 
+7130
+-
+8130
+.  
+(from the University catalog)
+.
+Advanced current research topi
+cs in database and information management, with emphasis on 
+nontraditional data and applications. PREREQUISITE: COMP 7116 or permission of 
+instructor. 
+Why this course?
+Today, one of t
+he major problem
+s
+is not lack of information but too mu
+ch informatio
+n. We 
+need 
+intelligent  ways  to  organize  the  vast  amount  of  information  available  at  our  fingertips  and  to 
+effectively  search  for  what  we
+want
+.  W
+e  are  faced  with an  Informatio
+n Overload  problem. The 
+Information Retrieval and Web Search 
+class presents the ma
+jor challenges 
+posed by this problem 
+and solutions to 
+these challe
+n
+ges
+.
+The 
+course 
+introduces  computational  techniques
+to  search  for  information  in  static  collections 
+of  documents  and 
+in  dynamic  collections,  e.g. 
+the 
+web.  Students  will  be  exposed  to  text
+processing
+algorithms
+,  classical  information
+retrieval  models  (e.g., 
+Boolean  and  Vectorial 
+models
+)
+,  and  web  search  techniques.
+The  course  is  closely  related  to  the  Natural  Language 
+Processing course.
+Resources:
+See the class website:
+http://www.cs.memphis.edu/~vrus/teaching/ir
+-
+websearch/
+Required
+Text
+R. Baeza
+-
+Yates
+and
+Berthier Ribeiro
+-
+Neto
+:
+Modern Information Retrieval
+Recommended
+Text
+s
+B. 
+Frakes and R. Baeza
+-
+Yates 
+Info
+rmation Retrieval: Data Structures and Algorithms
+C. Manning
+, P. Raghavan,
+and H. Schutze
+:
+Introduction to Information Retrieval
+Other Resources:
+See the class website:
+http://www.
+cs.memphis.edu/~vrus/teaching/ir
+-
+websearch/
+Evaluation:
+The University policy requires to
+email a grade to a student's U of M email address 
+only
+.
+Final Grades:
+Homework 
+35
+%, Project 
+30
+%, Midterm 1
+5
+%, F
+inal
+15
+%
+, Participation&
+Presentations 5%
+PhD 
+Students are req
+uired to make a presentation as part
+of the Homework 
+grade
+. The 
+presentation consists of power point slides presented in front of the class for 
+20
+-
+30
+minutes and 
+an accompanied report of 3
+-
+5 pages (single spaced).
+Grading Scale:
+Gr
+ade
+Letter Grade
+90
+-
+100+
+A
+80
+-
+89
+B
+70
+-
+79
+C
+60
+-
+69
+D
+0
+-
+59
+F
+2.5 above or below the cut
+-
+off will earn you a + or 
+–
+in front of your grade.
+For example: 89 has a letter equivalent of B+
+Exception: A
+-
+is  for  90
+-
+91, A for  scores  ranging from
+92 to
+97, anything above 
+98
+leads to A+
+Course Policies:
+Attendance
+Students   are   strongly   encouraged   to   attend   all 
+lectures.
+Active   participation
+to   class 
+discussions 
+counts toward your final grade.

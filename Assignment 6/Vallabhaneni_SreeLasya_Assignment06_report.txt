@@ -1,0 +1,36 @@
+#Name: VallabhaneniSreelasya.Assignment06.py
+#ID: Assignment 05
+#Question: Automatically collect from memphis.edu 10,000 
+unique documents. The documents should be proper after converting them to txt 
+(>50 valid tokens after saved as text); only collect .html, .txt, and and .pdf 
+web files and then convert them to text - make sure you do not keep any of 
+the presentation tags such as html tags. You may use third party tools to 
+convert the original files to text. Your output should be a set of 10,000 text 
+files (not html, txt, or pdf docs) of at least 50 textual tokens each. You must 
+write your own code to collect the documents - DO NOT use an existing crawler.
+
+Store for each proper file the original URL as you will need it later 
+when displaying the results to the user.
+
+Problem 2 [20 points]. Preprocess all the files using assignment #4. Save all
+preprocessed documents in a single directory which will be the input to
+the next assignment, index construction. Send the TA a link to a dropbox 
+directory where your preprocessed crawled documents are.
+
+#Name: Sree Lasya Vallabhaneni
+#Due Date: November 8, 2016
+
+
+In the code i have submitted is a web crawler in which i have done DFS where the url goes in one url and crawl entire left 
+and it will take other link and then crawl all those links and go to other links.
+
+I have created a recursive function where it first takes the seed url and process the url and extract text from that url.
+After text is extracted it preprocess by removing stopwords and links and stemming as Assignment 04.
+
+Next i will be checking if the link is already being visited and the limit is kept 10000.
+
+The visited link always updated and other list takes urls and remove url that is already being visited.
+After the condition fails that is limit of the list url and also if the url is already visited. 
+Crawling is being stopped.
+
+I have attached the link of dropbox and code in the folder.

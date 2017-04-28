@@ -1,0 +1,17 @@
+
+#Name: VallabhaneniSreelasya.Assignment02.py
+#ID: Assignment 05
+#Question:Write a  program that generates the inverted index of a set of already preprocessed files. The files are stored in a 
+#directory which is given as an input parameter to the program. Use the files preprocessed in the previous assignment(s) as test data. Use raw term frequency (tf) in the document without normalizing it.
+#Name: Sree Lasya Vallabhaneni
+#Due Date: oct 27, 2016
+
+
+In Assignment 5 
+I have taken the already preprocessed files from the Assignment4 and i have opened the input files in read mode 
+After that i have caluclated the term frequency of each term in particular document i.e count{} where key and value are stored as word and frequency
+
+I have created a dictionary of dictionary and have appended the document like a word is key and the value will be a dictionary that has dictionary name and the value of that dictionary will b term frequency
+Now if we caluclate the length of the outer dictionary it is the document frequency of that value.
+So i have given in the output that it is Word and Document frequency and Document name and a Term frequency
+You can email me if you have any doubts

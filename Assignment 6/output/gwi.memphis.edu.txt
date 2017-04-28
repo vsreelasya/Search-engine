@@ -1,0 +1,17 @@
+http://gwi.memphis.edu/
+align
+auto
+auto
+background
+bodi
+border
+center
+color
+color
+ii
+img
+left
+margin
+margin
+margin
+text

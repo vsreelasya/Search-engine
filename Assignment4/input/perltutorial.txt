@@ -1,0 +1,173 @@
+
+Introduction to Perl
+or, 
+Learn Perl in Two Hours
+MU Information & Access Technology Services Short Cour
+se
+Information & Access Technology Services, University
+ of Missouri - Columbia
+Document update: 2 April 1999
+Location:
+http://www.cclabs.missouri.edu/things/instruction/p
+erl/
+Contents
+1. What Is Perl?
+2. Course Requisites and Goals
+3. Perl References & Resources
+4. State of Perl
+5. Taste of Perl
+6. Storing & Running Perl Programs
+7. The Elements
+8. Literals & Operators
+9. Loops and I/O
+10. Grade Book Example
+11. Pipe I/O and System Calls
+12. Matching
+13. Parsing
+14. Simple CGI
+15. Testing Perl Programs
+16. Common Goofs
+1. What Is Perl?
+Perl is a 
+"Practical Extraction and Report Language"
+ freely available for Unix, MVS, VMS, MS/DOS, Macin
+tosh, OS/2,
+Amiga, and other operating systems. Perl has powerful text-
+manipulation functions. It eclectically combines featur
+es and
+purposes of many command languages. Perl has enjoyed recent
+ popularity for programming World Wide Web electronic
+forms and generally as glue and gateway between systems,
+ databases, and users. 
+2. Course Requisites and Goals
+This course presumes participants have elementary progra
+mming experience in a procedural programming language such as
+C, Pascal, or Basic; and access to a system with Per
+l 4 or Perl 5 installed, such as MU Information & Ac
+cess Technology
+Services’s SHOWME and SGI/NeXT systems.
+By completing this course and its homework, you should be 
+able to:
+1.
+Locate reference materials and other resources related t
+o Perl;
+2.
+Express fundamental programming constructs such as variab
+les, arrays, loops, subroutines and input/output in Perl;
+3.
+Understand several concepts relatively idiosyncratic t
+o Perl, such as associative arrays, Perl regular expres
+sions, and
+system interfaces;
+4.
+Program in Perl for data manipulation, file maintenance, pa
+ckaging or interfacing system facilities, and for
+"Common Gateway Interface" Web applications. CGI resour
+ces will be examined in more depth in a subsequent
+MU Information & Access Technology Services Short Cou
+rse.
+To keep this a 
+short
+ course, we won’t explain object-oriented concepts and so
+me other facilities appropriate for large projects.
+Perl, perhaps more than any other computer language, is full
+ of alternative ways to do the same thing; we tend to s
+how only
+one or two. We will try to stimulate by examples of use
+ful bits of code, results, and questions. Turn to the refer
+ence materials
+for further explanation. 
+3. Perl References and Resources
+MU Perl and Perl CGI Materials:,  
+http://www.cclabs.missouri.edu/things/instruction/p
+erl/
+MU On-line Perl Manual:  
+http://www.cclabs.missouri.edu/cgi-bin/perlman.cgi
+One of many sites for Perl Software:  
+http://www.cis.ufl.edu/perl/
+Usenet Newsgroups:  
+news:comp.lang.perl.announce, news:comp.lang.perl.m
+isc.
+Introduction to Perl
+2
+Reference Manual:
+Larry Wall, Tom Christiansen & Randall L. Schwartz, 
+Programming Perl
+, 2nd Edition September 1996, 670 pages,
+O’Reilly and Associates, Inc., ISBN 1-56592-149-6, $39.95. The
+ "Camel Book". A thorough Perl 5 reference with plenty
+of examples
+. 
+See
+http://perl.oreilly.com
+.
+Tutorials:
+Randal L. Schwartz, 
+Learning Perl
+, 1993, 274 pages, O’Reilly and Associates, Inc., ISBN 1-56592-
+042-2, $24.95 The
+"Llama Book". 1st edition introduces programming concepts wi
+th Perl 4.
+Tom’s Object-Oriented Perl Tutorial:  
+http://language.perl.com/all_about/perltoot.html
+Randy’s Column on OO Perl:  
+http://www.stonehenge.com/merlyn/UnixReview/col13.h
+tml
+Homework!
+Learn how to search the Perl 5 online manual using the 
+above URL with Netscape, Mosaic, or another World Wide 
+Web
+browser! Find an alternative expansion of the word "Perl"
+ as an acronym involving the word "eclectic". contents
+4. State of Perl
+Two types of programmers use Perl. System administrator
+s like it for the way it glues together system commands t
+o
+manipulate data and processes, and for its pattern-matching fu
+nctions aids in system searches and reporting. People
+developing electronic forms for Unix Web servers find Per
+l easier to learn and use than C, and for their purposes Per
+l offers
+more built-in or publicly available functions such as eas
+y data validation and simple databases.
+The Perl code in this document works under both Perl 4.036 (t
+he 
+last
+ version of Perl 4) and Perl 5.  Perl 5 adds object-
+oriented capabilities and several other conveniences. T
+he Reference Guide identifies with a double-dagger (as in ++
+) new
+features of Perl 5. For major general-purpose Perl appli
+cations, particularly CGI scripts and client or serve
+r applications, first
+check the ’Net for Perl modules that you can exploit! See t
+he FAQ "Perl 5 Module List" regularly posted to the Usen
+et group
+comp.lang.perl.announce.
+5. Taste of Perl
+Quite useful Perl programs can be short. Suppose we want
+ to change the same text in many files. Instead of editi
+ng each
+possible file or constructing some cryptic find, awk, o
+r sed commands, you could issue a single command:
+Example: Amazing Perl One-Liner That Substitutes Text In Multipl
+e Files
+      perl  -e ’s/gopher/World Wide Web/gi’  -p  -i
+.bak  *.html
+This command, issued at the Unix prompt, executes the shor
+t Perl program specified in single quotes. This program c
+onsists
+of one perl operation; it substitutes for original word "gop
+her" the phrase "World Wide Web", (globally, ignoring c
+ase). The
+re mainder of the Unix command indicates that the perl p
+rogram should run for each file ending in ".html" in the cu
+rrent
+directory. If any file "blah.html" needs changing, a ba
+ckup of the original is made as file "blah.html.bak". 
+Programming Perl
+lists additional handy one-liners.
+For those accustomed to "classic" procedural programming, 
+the "amazing one-liner" above can be expanded in Perl in a 
+style
+more like C or Pascal:

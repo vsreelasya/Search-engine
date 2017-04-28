@@ -1,0 +1,50 @@
+  
+
+         
+        Vasile Rus, Ph.D.
+        Professor
+        Systems Testing Research Fellow of the Fedex Institute of Technology
+        Department of Computer Science (CS)
+        Institute for Intelligent Systems (IIS)
+        The University of Memphis
+
+        Contact Info:
+        Phone:(901) 678 5259
+        Email:vrus @ memphis.edu
+        Fax:  (901) 678 2480
+        Address: 375 Dunn Hall, Memphis, TN 38152 	Dr. Vasile Rus - Photo taken on August 21, 2012
+        	
+
+         
+
+        Dr. Vasile Rus received his Bachelors degree in Computer Science from Technical University of Cluj-Napoca in June 1997 with a Diploma Thesis entitled Distributed and Collaborative Configuration Management , masterpieced while at LSR Laboratory, Grenoble Institute of Technology, France. Dr. Rus earned his Masters of Science in Computer Science and Doctor of Philosophy in Computer Science degrees from Southern Methodist University at Dallas, Texas in May 1999 and May 2002, respectively. His research interests include natural language processing, text and data mining, machine learning, artificial intelligence, intelligent interactive systems, and software engineering. His professional interests are mainly focused on systems software, software systems analysis and design, configuration management.
+
+ 
+NEWS:
+
+    Dr. Rus and Dr. Stefanescu won BEST PAPER AWARD at the 2nd International Conference on Smart Learning Environment (ICSLE 2015) for their paper entitled "Towards Non-Intrusive Assessment in Dialogue-based Intelligent. Tutoring Systems". An extended journal version has been published [PDF] .
+    Our team, NeRoSim, has won the semantic textual similarity competition at SemEval-2015, the premier forum for semantic evaluation. We participated in two tasks: the English semantic textual similarity (STS) task and the interpretable STS task. We WON both the English STS task and the interpretable STS task. See details in the organizers' report, which is available here. Note that for the English STS task we were ranked 10th out of 74 system runs but there was no significant difference among the top 10 system runs as the organizers' report clearly states. For the interpretable STS we were ranked 1st for the 'Headlines' data and 2nd for the 'Images' data, which is the best performance overall (for both datasets) of any team. For whatever reasons, the organizers did not report overall ranking for the whole interpretable STS - they chose to report results separately on the Headlines and Images data subsets for the interpretable STS task.
+    We proudly announce the release of SEMILAR: The Semantic Similarity Toolkit. See it here: SEMILAR.
+    PhD student Nobal Niraula won the big prize at the 2013 CS Research Day for his work on "Task Learning From the Web for Virtual Assistants." This was joint work with Dr. Amanda Stent at AT&T Research Labs.
+    Dr. Vasile Rus and his PhD student, Nobal Niraula, won BEST PAPER AWARD at The 13th Internatioanl Conference on Computational Linguistics (CICLing 2012) for the paper "Automated Detection of Local Coherence in Short Essays Based on Centering Theory". See details here.
+    Archana Bhattarai, a PhD student advised by Dr. Vasile Rus, won the top prize at the Computer Science Research Day 2011. Congratulations!
+    Dr. Rus was appointed Associate Editor of the International Journal on Artificial Intelligence Tools.
+    Dr. Rus was awarded $1.65 mil. by the Institute for Education Sciences to develop DeepTutor, an advanced intelligent tutoring system that integrates deep natural language and discourse processing with the science education framework of learning progressions to address some key issues in tutoring systems with natural language interactions. Learn more about DeepTutor at www.deeptutor.org.
+    Dr. Rus was selected as one of the area chairs for the prestigious ACL-2011 conference.
+    Mihai Lintean, a PhD student advised by Dr. Vasile Rus, won the top prize at the Computer Science Research Day 2010. Congratulations!
+    Dr. Rus is co-chairing the 1st Question Generation Shared Task Evaluation Campaign (QG STEC 2010). QG STEC 2010 is organized in conjunction with the 3rd Workshop on Question Generation (QG 2010), in Pittburgh, PA, June 18, 2010.
+    Dr. Rus is co-chair of the 2nd Workshop on Question Generation
+    Dr. Rus is co-chair of the Workshop on the Question Generation Shared Task and Evaluation Challenge.
+    Dr. Rus is Workshop Co-Chair & Program Co-chair for the 2nd International Research Workshop on Advances and Innovations in Systems Testing.
+    Dr. Rus is Program Chair for the Workshop on Advances and Innovations in Systems Testing.
+    Dr. Rus is running the Cognitive Science seminar on Human, Animal, and Machine Learning. If you are interested and want more details, please contact him.
+    If you are looking for the TEST DATA from the Logic Form competition please download it from HERE .
+    If you are interested in the LFI competition please use this form to subscribe to the discussion group related to the LFI competition.
+    Subscribe to logicforms
+    	
+    Powered by groups.yahoo.com
+
+
+The University of Memphis Fedex Institute of Technology
+The University of Memphis
+
